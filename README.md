@@ -12,7 +12,7 @@ Estudante de **Engenharia Elétrica** construindo uma trajetória na interseçã
 <a href="https://github.com/abominavelneves">
   <img src="https://img.shields.io/badge/GitHub-abominavelneves-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/isaac-santos-neves/)">
   <img src="https://img.shields.io/badge/LinkedIn-Isaac%20Neves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
