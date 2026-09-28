@@ -181,11 +181,11 @@ Meu objetivo é construir projetos que não apenas demonstrem conhecimento técn
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/isaac-santos-neves/">
   <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL_AQUI">
+<a href="mailto:isaacsdneves@gmail.com">
   <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
